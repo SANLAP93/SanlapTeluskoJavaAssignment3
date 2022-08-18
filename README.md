@@ -1,1 +1,0 @@
-# SanlapTeluskoJavaAssignment3
